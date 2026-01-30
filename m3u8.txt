@@ -1,0 +1,17 @@
+[
+  {
+    "name": "main04-my",
+    "url": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+    "date": ""
+  },
+  {
+    "name": "nexgen-m3u",
+    "url": "https://raw.githubusercontent.com/tvbd/m3uplayer/refs/heads/main/m3u/nexgen.m3u",
+    "date": ""
+  },
+  {
+    "name": "AynaOTT",
+    "url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u",
+    "date": ""
+  }
+]
