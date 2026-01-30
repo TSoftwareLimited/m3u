@@ -1,6 +1,6 @@
 [
   {
-    "name": "main04-my",
+    "name": "Play List",
     "url": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
     "date": ""
   },
