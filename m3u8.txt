@@ -13,10 +13,5 @@
     "name": "AynaOTT",
     "url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u",
     "date": ""
-  },
-  {
-    "name": "Football",
-    "url": "https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u",
-    "date": ""
   }
 ]
