@@ -4,6 +4,11 @@
     "url": "https://raw.githubusercontent.com/TSoftwareLimited/m3u/refs/heads/main/main.m3u",
     "date": ""
   },
+{
+    "name": "FIFA Plays",
+    "url": "https://raw.githubusercontent.com/imShakil/tvlink/refs/heads/main/all.m3u",
+    "date": ""
+  },
   {
     "name": "All Channels",
     "url": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
