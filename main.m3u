@@ -1,12 +1,7 @@
 #EXTINF:-1 tvg-logo="https://thebrandinquirer.files.wordpress.com/2023/05/cover-colors-fifa-unveils-official-logo-for-2026-world-cup-custom-cities.png" group-title="SPORTS", Live Sports-1 (FIFA World Cup)
-#http://119.156.228.231:9983/stream/channelid/1954196473?ticket=62F2D83682C19FDC5DFDB6439A6B4FB78CA69836&profile=pass
-#https://1nyaler.streamhostingcdn.top/stream/43/index.m3u8
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thebrandinquirer.files.wordpress.com/2023/05/cover-colors-fifa-unveils-official-logo-for-2026-world-cup-custom-cities.png" group-title="SPORTS", Live Sports-2 (FIFA World Cup)
-#http://103.157.248.140:8000/play/a01m/index.m3u8
-#https://1nyaler.streamhostingcdn.top/stream/44/index.m3u8
-#https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3 (FIFA World Cup)
