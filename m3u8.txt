@@ -1,4 +1,8 @@
-[
+[{
+    "name": "World Cup Special",
+    "url": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/refs/heads/main/FIFA%20Sports.m3u",
+    "date": ""
+  },
   {
     "name": "Play List",
     "url": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
