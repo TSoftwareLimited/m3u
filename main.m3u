@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3IBxX635_Vkx0vaJTS4oOihTPqfpRNee2cuFdLllrQ&s=10" group-title="1BDIX",BDIX FIFA WORLD CUP
 https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.xZBRNGbqClGLDwnXvqcoMwHaHa?cb=thfc1falcon2&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian-Bangla",Z Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS",Live Sports-3 (FIFA World Cup)
 https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS",Live Sports-4
@@ -135,6 +133,8 @@ http://202.70.146.135:8000/play/a05o/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.xZBRNGbqClGLDwnXvqcoMwHaHa?cb=thfc1falcon2&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian-Bangla",Z Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla HD
