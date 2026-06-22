@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1294/728/16x9arg-aus.jpg?ve=1&tl=1" group-title="1BDIX",Argentina VS Austria
-https://cdn-tt.pages.dev/ch5.m3u8
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS",Live Sports-3 (FIFA World Cup)
 https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
