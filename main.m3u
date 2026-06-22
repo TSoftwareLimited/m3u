@@ -81,62 +81,6 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA",Movie Bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBangla4K" tvg-name="Zee Bangla 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Zee_Bangla_HD_%282025%29.svg/revision/latest?cb=20250609091454" group-title="Indian-Bangla",Zee Bangla 4K
-http://starhub.pro/live/Anthony2/Anthony123/435.ts
-#EXTINF:-1 tvg-id="ColorsBangla4K" tvg-name="Colors Bangla 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg/revision/latest?cb=20240314081816" group-title="Indian-Bangla",Colors Bangla 4K
-http://starhub.pro/live/Anthony2/Anthony123/98882.ts
-#EXTINF:-1 tvg-id="StarJalsa4K" tvg-name="Star Jalsa 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624" group-title="Indian-Bangla",Star Jalsa 4K
-http://starhub.pro/live/Anthony2/Anthony123/198.ts
-#EXTINF:-1 tvg-id="JalsaMovies4K" tvg-name="Jalsa Movies 4K" group-title="Indian-Bangla",Jalsa Movies 4K
-http://starhub.pro/live/Anthony2/Anthony123/98884.ts
-#EXTINF:-1 tvg-id="SonyMax4K" tvg-name="Sony Max 4K" group-title="Indian-Bangla",Sony Max 4K
-http://starhub.pro/live/Anthony2/Anthony123/98857.ts
-#EXTINF:-1 tvg-id="AndPictures4K" tvg-name="& Pictures 4K" group-title="Indian-Bangla",& Pictures 4K
-http://starhub.pro/live/Anthony2/Anthony123/98856.ts
-#EXTINF:-1 tvg-id="StarGold4K" tvg-name="Star Gold 4K" group-title="Indian-Bangla",Star Gold 4K
-http://starhub.pro/live/Anthony2/Anthony123/98858.ts
-#EXTINF:-1 tvg-id="StarGoldSelect4K" tvg-name="Star Gold Select 4K" group-title="Indian-Bangla",Star Gold Select 4K
-http://starhub.pro/live/Anthony2/Anthony123/98859.ts
-#EXTINF:-1 tvg-id="ZeeCinema4K" tvg-name="Zee Cinema 4K" group-title="Indian-Bangla",Zee Cinema 4K
-http://starhub.pro/live/Anthony2/Anthony123/98860.ts
-#EXTINF:-1 tvg-id="ColorsCineplex4K" tvg-name="Colors Cineplex 4K" group-title="Indian-Bangla",Colors Cineplex 4K
-http://starhub.pro/live/Anthony2/Anthony123/9378.ts
-#EXTINF:-1 tvg-id="AnimalPlanet4K" tvg-name="Animal Planet 4K" group-title="Indian-Bangla",Animal Planet 4K
-http://starhub.pro/live/Anthony2/Anthony123/9391.ts
-#EXTINF:-1 tvg-id="HistoryTV184K" tvg-name="History TV18 4K" group-title="Indian-Bangla",History TV18 4K
-http://starhub.pro/live/Anthony2/Anthony123/98877.ts
-#EXTINF:-1 tvg-id="Discovery4K" tvg-name="Discovery 4K" group-title="Indian-Bangla",Discovery 4K
-http://starhub.pro/live/Anthony2/Anthony123/98872.ts
-#EXTINF:-1 tvg-id="NationalGeo4K" tvg-name="National Geographic 4K" group-title="Indian-Bangla",National Geographic 4K
-http://starhub.pro/live/Anthony2/Anthony123/98874.ts
-#EXTINF:-1 tvg-id="SonyBBCEarth4K" tvg-name="Sony BBC Earth 4K" group-title="Indian-Bangla",Sony BBC Earth 4K
-http://starhub.pro/live/Anthony2/Anthony123/98871.ts
-#EXTINF:-1 tvg-id="TravelXP4K" tvg-name="Travel XP 4K" group-title="Indian-Bangla",Travel XP 4K
-http://starhub.pro/live/Anthony2/Anthony123/1623.ts
-#EXTINF:-1 tvg-id="Nick4K" tvg-name="Nick 4K" group-title="Indian-Bangla",Nick 4K
-http://starhub.pro/live/Anthony2/Anthony123/7438.ts
-#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" group-title="Indian-Bangla",T Sports HD
-http://starhub.pro/live/Anthony2/Anthony123/113069.ts
-#EXTINF:-1 tvg-id="PTV4K" tvg-name="PTV 4K" group-title="Indian-Bangla",PTV 4K
-http://starhub.pro/live/Anthony2/Anthony123/61674.ts
-#EXTINF:-1 tvg-id="StarSports14K" tvg-name="Star Sports 1 4K" group-title="Indian-Bangla",Star Sports Select 1 4K
-http://starhub.pro/live/Anthony2/Anthony123/238.ts
-#EXTINF:-1 tvg-id="StarSports24K" tvg-name="Star Sports 2 4K" group-title="Indian-Bangla",Star Sports select 2 4K
-http://starhub.pro/live/Anthony2/Anthony123/148801.ts
-#EXTINF:-1 tvg-id="SonyTen14K" tvg-name="Sony Ten 1 4K" group-title="Indian-Bangla",Sony Ten 1 4K
-http://starhub.pro/live/Anthony2/Anthony123/154.ts
-#EXTINF:-1 tvg-id="SonyTen24K" tvg-name="Sony Ten 2 4K" group-title="Indian-Bangla",Sony Ten 2 4K
-http://starhub.pro/live/Anthony2/Anthony123/31314.ts
-#EXTINF:-1 tvg-id="SonyTen54K" tvg-name="Sony Ten 5 4K" group-title="Indian-Bangla",Sony Ten 5 4K
-http://starhub.pro/live/Anthony2/Anthony123/176.ts
-#EXTINF:-1 tvg-id="FoxCricket5014K" tvg-name="Fox Cricket 501 4K" group-title="Indian-Bangla",Fox Cricket 501 4K
-http://starhub.pro/live/Anthony2/Anthony123/1856.ts
-#EXTINF:-1 tvg-id="SuperSport14K" tvg-name="SuperSport 1 4K" group-title="Indian-Bangla",Star Sports 1 4K
-http://starhub.pro/live/Anthony2/Anthony123/9397.ts
-#EXTINF:-1 tvg-id="SuperSport24K" tvg-name="SuperSport 2 4K" group-title="Indian-Bangla",Star Sports 2 4K
-http://starhub.pro/live/Anthony2/Anthony123/9398.ts
-#EXTINF:-1 tvg-id="ZeeZest4K" tvg-name="Zee Zest 4K" group-title="Indian-Bangla",Zee Zest 4K
-http://starhub.pro/live/Anthony2/Anthony123/380446.ts
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.xZBRNGbqClGLDwnXvqcoMwHaHa?cb=thfc1falcon2&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian-Bangla",Z Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
