@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/131246226.cms" group-title="FIFA World Cup",FIFA World Cup 2026
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.nBOx5eStTn3_uay8si_qdwHaHa?pcl=292827&r=0&o=7rm=3&dpr=1.8&pid=ImgDetMain&o=7&rm=3" group-title="FIFA World Cup",T Sports HD
+https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsports/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="FIFA World Cup",World Cup S1
 https://live05.msdht.app/live/24561735.m3u8
 #EXTINF:-1 group-title="FIFA World Cup",PTV
