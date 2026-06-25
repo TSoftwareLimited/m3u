@@ -2,12 +2,12 @@
 #EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/131246226.cms" group-title="FIFA World Cup",FIFA World Cup 2026
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.nBOx5eStTn3_uay8si_qdwHaHa?pcl=292827&r=0&o=7rm=3&dpr=1.8&pid=ImgDetMain&o=7&rm=3" group-title="FIFA World Cup",T Sports HD
-http://198.195.239.50:8095/tsports/index.m3u8
+https://trs1.aynaott.com/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="FIFA World Cup",World Cup S1
 https://bioscope.sm-monirulislam-exp.workers.dev/proxy?url=https%3A%2F%2Ffifa.keralive.workers.dev%2Fout%2Fv1%2F4e21d5a122c549289dd6feab259266e8%2Findex_1_161849.ts%3Fm%3D1782233562
 #EXTINF:-1 group-title="FIFA World Cup",PTV
 https://pico.kheladekho.xyz/hls/bdixmasud/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="FIFA World Cup",World Cup S2
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="FIFA World Cup",World Cup S2Ft
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg",FIFA World Cup live 1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
