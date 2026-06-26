@@ -5,8 +5,8 @@
     "date": ""
   },
 {
-    "name": "FIFA Plays",
-    "url": "https://raw.githubusercontent.com/imShakil/tvlink/refs/heads/main/all.m3u",
+    "name": "FIFA Plays (Updated)",
+    "url": "https://raw.githubusercontent.com/TSoftwareLimited/m3u/refs/heads/main/newplaylist.m3u",
     "date": ""
   },
   {
