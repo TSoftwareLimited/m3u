@@ -11,7 +11,7 @@
   },
   {
     "name": "All Channels",
-    "url": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+    "url": "https://raw.githubusercontent.com/TSoftwareLimited/m3u/refs/heads/main/playlistxx.m3u",
     "date": ""
   },
 {
